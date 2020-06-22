@@ -4,6 +4,6 @@ In this notebook, we show how one can use deep neural nets to classify the state
 
                                                  𝐻 = −𝐽 ∑⟨𝑖𝑗⟩𝑆𝑖𝑆𝑗 
 
-where the lattice site indices i,j run over all nearest neighbors of a 2D square lattice, and J is some arbitrary interaction energy scale. We adopt periodic boundary conditions. Onsager proved that this model undergoes a phase transition in the thermodynamic limit from an ordered ferromagnet with all spins aligned to a disordered phase at the critical temperature T_c. For any finite system size, this critical point is expanded to a critical region around T_c.
+where the lattice site indices i,j run over all nearest neighbors of a 2D square lattice, and J is some arbitrary interaction energy scale. We adopt periodic boundary conditions. Onsager proved that this model undergoes a phase transition in the thermodynamic limit from an ordered ferromagnet with all spins aligned to a disordered phase at the critical temperature Tc. For any finite system size, this critical point is expanded to a critical region around Tc.
 
 I have acheived 99% training and test accuracy on non-critical states and 68% accuracy on critical states.
