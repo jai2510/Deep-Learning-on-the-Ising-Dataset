@@ -1,1 +1,1 @@
-# Deep-Learning-on-the-Isling-Dataset
+# Deep Learning on the Isling Dataset
