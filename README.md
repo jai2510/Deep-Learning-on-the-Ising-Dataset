@@ -1,4 +1,4 @@
-# Deep Learning on the Isling Dataset
+# Deep Learning on the Ising Dataset
 
 In this notebook, we show how one can use deep neural nets to classify the states of the 2D Ising model according to their phase. The Hamiltonian for the classical Ising model is given by
 
